@@ -16,7 +16,7 @@ Each book has its own unique **ID**, generated with `crypto.randomUUID()`, makin
 
 ## Try It Yourself
 
-[Save Your Books](https://mararovsek99.github.io/Library/)
+[Save Your Books]([https://mararovsek99.github.io/library))
 
 
 ## License
